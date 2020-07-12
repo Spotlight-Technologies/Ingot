@@ -1,45 +1,56 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# Ingot
+***Ingot - English Word Spelling and Pronunciation***
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
-
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
-
----
-
-## Edit a file
-
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
-
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+[GET IT ON Google Play](https://play.google.com/store/apps/details?id=com.spotlightapps18.masterielts&hl=en_IN)
 
 ---
+Ingot : (English Vocabulary Trainer App) is the best custom designed app to answer the most frequently asked question of each English learner that how to learn English? How can I improve my spelling skill? How to pronounce each word correctly? What is the best strategy for memorizing words in English? and so on...
 
-## Create a file
+With **Ingot** (English Vocabulary Correct Pronunciation App) Learn and revise more than 500 very important and most used Academic, General and Topic English vocabularies with their full definitions, and their types. There are more than 1000 daily used example sentences which help for understanding, deep learning and usage of each word in real life.
 
-Next, you’ll add a new file to this repository.
+# Listen and Pronounce:
 
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
+Listen to the correct pronunciation of each word and try to pronounce accordingly. This technique helps you to learn and practice the pronunciation of each word correctly and in a better and easy way than ordinary textbooks or dictionaries.
 
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
+The correct pronunciation of a word in English is the most important factor for better communication. In Ingot you can practice and master the pronunciation of each word in English correctly like a native speaker.
 
----
+# Listen and Write:
 
-## Clone a repository
+These activities are prepared to improve your writing skill. First, you have to listen to the pronunciation of each word then try to write with their correct spellings.
 
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
+learning the correct spelling of each word is one of the most important skills for an English language learner. the only way to improve your writing skill is the practicing and learning the correct spelling of each word.
 
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
 
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+# Learn & revise by solving questions:
+
+Academic studies and tests have shown that the techniques of solving and answering relative questions about any topic - to understand easy and remember it for the long term - is one of the best-known techniques. Solving a question challenge your mind to find the right path and answer. Because of this for the deep learning purpose of each English word we ask a question. If you answer wrong then it will be asked again and again till you learn it deeply in your mind.
+
+The vocabulary of The Day:
+
+Everyday memorizes a word by its definition and example sentences in real life.
+No need to enter in the application, you'll get a notification about word of the day every morning. don't forget that a penny saved is a penny earned.
+
+If you are preparing for exams like TOEFL and IELTS then this app will be a huge blessing for you. Because in those both exams your writing, speaking, and your English word repository is very important. By this app, you can practice the correct pronunciation and spelling of most common used English words as well as their definitions.
+
+- Practice, revise & learn more than 500 English words.
+- Complete definitions, example sentences, pronounce and types of the words.
+- Decks of flashcards for different categories
+- Track your progress, identify your strengths and areas for improvement
+- learn and practice correct pronounce of each word.
+- learn and practice correct spelling of each word.
+- FREE access to all of the word categories
+- Learn, practice and master English words offline anywhere you want. No needs for
+internet connection.
+
+# LEARN FASTER. LEARN SMARTER.
+Ingot (English Vocabulary Trainer App) uses spaced repetition to make your learning sessions as streamlined as possible! Academic studies and tests have shown that spaced repetition is shown to significantly increase learning efficiency and information retention.
+Words and definitions you’re learning will reappear on questions to help you learn them faster
+
+Icons made by Freepik from www.flaticon.com
+
+GET IN TOUCH WITH US
+
+We’re always striving to make our services as beneficial to you as possible! If you have any feedback, suggestions for new features or you just want to drop in and say hi, send us an email at spotlighapps18@gmail.com.
+
+
+DOWNLOAD FOR FREE & START MASTERING YOUR ENGLISH VOCABULARY TODAY
