@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/learned_words"
+        android:title="Learned Vocabularies"
+        app:showAsAction="collapseActionView"
+        android:iconTint="#fff" />
+
+    <item
+        android:id="@+id/liked_word"
+        android:title="Liked vocabularies"
+        app:showAsAction="collapseActionView"
+        />
+
+</menu>

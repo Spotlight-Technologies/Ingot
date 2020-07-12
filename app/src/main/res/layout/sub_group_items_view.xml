@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="85dp"
+            android:orientation="horizontal"
+            android:id="@+id/sub_group_item_item_layout"
+            android:layout_gravity="top">
+            
+            <!--<TextView-->
+                <!--android:layout_width="46dp"-->
+                <!--android:layout_height="46dp"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:text="10"-->
+                <!--android:backgroundTint="@color/textColorOrange"-->
+                <!--android:textSize="22sp"-->
+                <!--android:gravity="center"-->
+                <!--android:textColor="#ffff"-->
+                <!--android:fontFamily="sans-serif"-->
+                <!--android:layout_marginLeft="16dp"-->
+                <!--android:background="@drawable/circle_drawable"-->
+                <!--android:id="@+id/number_of_question_tv"-->
+                <!--/>-->
+
+            <TextView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center"
+                android:textColor="#fff"
+                android:gravity="center"
+                android:id="@+id/circle_text_view"
+                android:textSize="24dp"
+                android:layout_marginLeft="16dp"
+                android:background="@drawable/circle_drawable"
+
+                />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="8dp"
+                >
+            
+            <TextView
+                android:layout_width="match_parent"
+                android:id="@+id/test_category_name_tv"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:textSize="16dp"
+                android:layout_marginLeft="16dp"
+                android:fontFamily="sans-serif"
+                android:text="Body language"
+                android:gravity="bottom"
+                android:layout_gravity="start"
+                android:textColor="#000000"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                <ProgressBar
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:layout_height="wrap_content"
+                    style="@style/Base.Widget.AppCompat.ProgressBar.Horizontal"
+                    android:progressTint="@color/textColorOrange"
+                    android:progress="2"
+                    android:max="7"
+                    android:layout_marginLeft="16dp"
+                    android:layout_marginTop="6dp"
+                    android:id="@+id/sub_group_progress_bar"
+                    />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="10"
+                        android:textSize="12sp"
+                        android:fontFamily="sans-serif"
+                        android:layout_marginTop="4dp"
+                        android:layout_marginLeft="8dp"
+                        android:id="@+id/question_done_tv"
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="/20"
+                        android:textSize="12sp"
+                        android:fontFamily="sans-serif"
+                        android:layout_marginTop="4dp"
+                        android:id="@+id/total_question_tv"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+                <Button
+                    android:layout_width="90sp"
+                    android:layout_height="32sp"
+                    android:gravity="center"
+                    android:text="START"
+                    android:id="@+id/start_button"
+                    android:textColor="#ffff"
+                    android:textStyle="bold"
+                    android:layout_margin="16sp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/start_button_drawable"
+                    android:backgroundTint="@color/greenLight"
+                    />
+        </LinearLayout>
+
+    
+</LinearLayout>

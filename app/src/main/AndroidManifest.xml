@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.spotlightapps18.masterielts">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        
+        <provider
+            android:authorities="com.spotlightapps18.masterielts"
+            android:name=".data.QuestionProvider"
+            android:exported="true"/>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".WordDetialsActivity"
+            android:label="Body Language"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".SubGroupActivity"
+            android:label="Academic Vocabularies"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".QuestionPlayActivity"
+            android:parentActivityName=".SubGroupActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+           />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

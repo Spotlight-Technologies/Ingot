@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="q1a">to know the meaning of what someone is telling you</string>
+    <string name="q1b">to have the same opinion as someone else</string>
+    <string name="q1c">to give your permission for something</string>
+    <string name="q1answer">b</string>
+    <string name="q1key_word">agree</string>
+
+    <string name="q2a">concur</string>
+    <string name="q2b">understand</string>
+    <string name="q2c">concede</string>
+    <string name="q2answer">a</string>
+    <string name="q2key_word">n</string>
+
+    <string name="q3a">to say that you think that something is not correct or not true</string>
+    <string name="q3b">to have the same opinion as someone else</string>
+    <string name="q3c">to have a different opinion from someone else</string>
+    <string name="q3answer">b</string>
+    <string name="q3key_word">share</string>
+
+    <string name="q4a">to believe that someone’s opinion or belief is right</string>
+    <string name="q4b">to do what you have to do or are asked to do</string>
+    <string name="q4c">to decide that something is true after considering all the information</string>
+    <string name="q4answer">a</string>
+    <string name="q4key_word">accept</string>
+
+    <string name="q5a">agreement</string>
+    <string name="q5b">conclusion</string>
+    <string name="q5c">concession</string>
+    <string name="q5answer">a</string>
+    <string name="q5key_word">n</string>
+
+    <string name="q6a">a lack of understanding about something because it is not clear</string>
+    <string name="q6b">a situation in which people speak angrily to each other because they disagree about something</string>
+    <string name="q6c">agreement among most of the people in a group, or what they agree</string>
+    <string name="q6answer">c</string>
+    <string name="q6key_word">consensus</string>
+
+    <string name="q7a">to ignore something or treat it as unimportant</string>
+    <string name="q7b">to say publicly that you disagree with an official or widely accepted opinion - a formal word</string>
+    <string name="q7c">to prove that a statement or idea is not correct</string>
+    <string name="q7answer">b</string>
+    <string name="q7key_word">dissent</string>
+
+    <string name="q8a">the only one of its kind</string>
+    <string name="q8b">complete</string>
+    <string name="q8c">agreed about by everyone involved - used about decisions and opinions</string>
+    <string name="q8answer">c</string>
+    <string name="q8key_word">unanimous</string>
+
+    <string name="q9a">to ignore something or treat it as unimportant</string>
+    <string name="q9b">to say that you are not responsible for or not involved with something</string>
+    <string name="q9c">to have or express a different opinion about something from someone else</string>
+    <string name="q9answer">c</string>
+    <string name="q9key_word">disagree</string>
+
+    <string name="q10a">to ignore something or treat it as unimportant</string>
+    <string name="q10b">to say that you think that something is not correct or not true</string>
+    <string name="q10c">to think that someone’s behaviour, ideas etc are bad</string>
+    <string name="q10answer">b</string>
+    <string name="q10key_word">dispute</string>
+
+    <string name="q11a">divide</string>
+    <string name="q11b">outrage</string>
+    <string name="q11c">dispute</string>
+    <string name="q11answer">a</string>
+    <string name="q11key_word">n</string>
+
+    <string name="q12a">to think that something is true</string>
+    <string name="q12b">to have a different opinion from someone else</string>
+    <string name="q12c">to have the same opinion as someone else</string>
+    <string name="q12answer">c</string>
+    <string name="q12key_word">share</string>
+
+    <string name="q13a">to believe that someone’s opinion or belief is right</string>
+    <string name="q13b">to say that you think that something is not correct or not true</string>
+    <string name="q13c">to have a different opinion from someone else</string>
+    <string name="q13answer">a</string>
+    <string name="q13key_word">accept</string>
+
+
+    <string name="q14a">the state of having a friendly relationship, so that you live in peace</string>
+    <string name="q14b">a situation in which people agree about something</string>
+    <string name="q14c">to have a different opinion from someone else</string>
+    <string name="q14answer">b</string>
+    <string name="q14key_word">agreement</string>
+
+    <string name="q15a">concession</string>
+    <string name="q15b">common ground</string>
+    <string name="q15c">concord</string>
+    <string name="q15answer">b</string>
+    <string name="q15key_word">n</string>
+
+    <string name="q16a">unique</string>
+    <string name="q16b">unanimous</string>
+    <string name="q16c">unilateral</string>
+    <string name="q16answer">b</string>
+    <string name="q16key_word">n</string>
+
+    <string name="q17a">cause</string>
+    <string name="q17b">motivate</string>
+    <string name="q17c">unilateral</string>
+    <string name="q17answer">a</string>
+    <string name="q17key_word">n</string>
+
+    <string name="q18a">to make someone want do something very good, bad, or dangerous</string>
+    <string name="q18b">to make a particular idea or image appear in people’s minds by what you say</string>
+    <string name="q18c">to cause a particular physical condition</string>
+    <string name="q18answer">a</string>
+    <string name="q18key_word">motivate</string>
+
+    <string name="q20a">excite</string>
+    <string name="q20b">cause</string>
+    <string name="q20c">motivate</string>
+    <string name="q20answer">a</string>
+    <string name="q20key_word">n</string>
+
+    <string name="q19a">to make something happen, especially something unpleasant</string>
+    <string name="q19b">to cause a particular feeling in people such as interest or jealousy</string>
+    <string name="q19c">to make someone want do something very good, bad, or dangerous</string>
+    <string name="q19answer">b</string>
+    <string name="q19key_word">excite</string>
+
+    <string name="q21a">provoke</string>
+    <string name="q21b">incite</string>
+    <string name="q21c">create</string>
+    <string name="q21answer">c</string>
+    <string name="q21key_word">n</string>
+
+    <string name="q22a">trigger</string>
+    <string name="q22b">generate</string>
+    <string name="q22c">motivate</string>
+    <string name="q22answer">a</string>
+    <string name="q22key_word">n</string>
+
+    <string name="q24a">to make someone have a particular emotion, thought, or reaction</string>
+    <string name="q24b">to make a particular idea or image appear in people’s minds by what you say</string>
+    <string name="q24c">to make something serious happen, especially more quickly than was expected</string>
+    <string name="q24answer">c</string>
+    <string name="q24key_word">precipitate</string>
+
+    <string name="q23a">to make someone want do something very good, bad, or dangerous</string>
+    <string name="q23b">to cause an angry situation or a reaction</string>
+    <string name="q23c">to make a particular idea or image appear in people’s minds by what you say</string>
+    <string name="q23answer">b</string>
+    <string name="q23key_word">provoke</string>
+
+    <string name="q25a">precipitate</string>
+    <string name="q25b">evoke</string>
+    <string name="q25c">incite</string>
+    <string name="q25answer">c</string>
+    <string name="q25key_word">n</string>
+
+    <string name="q26a">fluctuate</string>
+    <string name="q26b">mutate</string>
+    <string name="q26c">amend</string>
+    <string name="q26answer">a</string>
+    <string name="q26key_word">n</string>
+
+    <string name="q27a">to use your power or authority to change someone else’s decision</string>
+    <string name="q27b">to change a process or decision so that it is the opposite of what it was before</string>
+    <string name="q27c">to change and develop into a completely new form</string>
+    <string name="q27answer">c</string>
+    <string name="q27key_word">mutate</string>
+
+    <string name="q28a">modify</string>
+    <string name="q28b">adjust</string>
+    <string name="q28c">transform</string>
+    <string name="q28answer">c</string>
+    <string name="q28key_word">n</string>
+
+    <string name="q29a">twist</string>
+    <string name="q29b">revolutions</string>
+    <string name="q29c">adjust</string>
+    <string name="q29answer">b</string>
+    <string name="q29key_word">n</string>
+
+    <string name="q30a">to change something completely so that it has a different form and can be used for a different purpose</string>
+    <string name="q30b">to change one thing for something different</string>
+    <string name="q30c">to change an idea or plan because of new information</string>
+    <string name="q30answer">c</string>
+    <string name="q30key_word">revise</string>
+
+    <string name="q31a">to change, or to make someone or something change</string>
+    <string name="q31b">to change continuously from one thing or condition to another one and back again</string>
+    <string name="q31c">to completely change the way something such as a government, business, or system is organized</string>
+    <string name="q31answer">a</string>
+    <string name="q31key_word">alter</string>
+
+    <string name="q32a">reorganize</string>
+    <string name="q32b">transfer</string>
+    <string name="q32c">vary</string>
+    <string name="q32answer">c</string>
+    <string name="q32key_word">n</string>
+
+    <string name="q33a">reform</string>
+    <string name="q33b">evolve</string>
+    <string name="q33c">customise</string>
+    <string name="q33answer">b</string>
+    <string name="q33key_word">n</string>
+
+    <string name="q34a">deviate</string>
+    <string name="q34b">fluctuate</string>
+    <string name="q34c">overturn</string>
+    <string name="q34answer">a</string>
+    <string name="q34key_word">n</string>
+
+    <string name="q35a">to change a law, system, or organization, so that it is fairer or more effective</string>
+    <string name="q35b">to dishonestly change the true or intended meaning of a statement in order to get some advantage for yourself</string>
+    <string name="q35c">to change something completely so that it has a different form and can be used for a different purpose</string>
+    <string name="q35answer">a</string>
+    <string name="q35key_word">reform</string>
+
+    <string name="q36a">customise</string>
+    <string name="q36b">revise</string>
+    <string name="q36c">fluctuate</string>
+    <string name="q36answer">b</string>
+    <string name="q36key_word">n</string>
+
+    <string name="q37a">override</string>
+    <string name="q37b">reverse</string>
+    <string name="q37c">transform</string>
+    <string name="q37answer">c</string>
+    <string name="q37key_word">n</string>
+
+    <string name="q38a">reform</string>
+    <string name="q38b">rearrange</string>
+    <string name="q38c">revolutionize</string>
+    <string name="q38answer">a</string>
+    <string name="q38key_word">n</string>
+    <!---->
+    <string name="q39a">switch</string>
+    <string name="q39b">diversion</string>
+    <string name="q39c">correction</string>
+    <string name="q39answer">c</string>
+    <string name="q39key_word">n</string>
+
+    <string name="q40a">U- turn</string>
+    <string name="q40b">alteration</string>
+    <string name="q40c">upheaval</string>
+    <string name="q40answer">b</string>
+    <string name="q40key_word">n</string>
+
+    <string name="q41a">a change to an opposite process or effect</string>
+    <string name="q41b">a small change made to a machine, a system, or a calculation</string>
+    <string name="q41c">a change made to a system, especially a political system, in order to improve it</string>
+    <string name="q41answer">b</string>
+    <string name="q41key_word">adjustment</string>
+
+    <string name="q42a">modification</string>
+    <string name="q42b">U- turn</string>
+    <string name="q42c">turnaround</string>
+    <string name="q42answer">a</string>
+    <string name="q42key_word">n</string>
+
+    <string name="q43a">a change to an opposite process or effect</string>
+    <string name="q43b">a complete change in something or someone, that leads to a great improvement</string>
+    <string name="q43c">a change made to a law or rule in order to improve it</string>
+    <string name="q43answer">c</string>
+    <string name="q43key_word">amendment</string>
+
+    <string name="q44a">diversion</string>
+    <string name="q44b">turnaround</string>
+    <string name="q44c">modification</string>
+    <string name="q44answer">b</string>
+    <string name="q44key_word">n</string>
+
+    <string name="q45a">amendment</string>
+    <string name="q45b">modification</string>
+    <string name="q45c">upheaval</string>
+    <string name="q45answer">c</string>
+    <string name="q45key_word">n</string>
+
+    <string name="q46a">a gradual but important change in the way people think about something or in the way that something is done</string>
+    <string name="q46b">a complete change in the way of doing things or thinking, because of new ideas or methods</string>
+    <string name="q46c">a process of gradual change from one state or situation to another</string>
+    <string name="q46answer">b</string>
+    <string name="q46key_word">revolution</string>
+
+    <string name="q47a">move</string>
+    <string name="q47b">U- turn</string>
+    <string name="q47c">transformation</string>
+    <string name="q47answer">c</string>
+    <string name="q47key_word">n</string>
+
+    <string name="q48a">about-face</string>
+    <string name="q48b">diversion</string>
+    <string name="q48c">correction</string>
+    <string name="q48answer">a</string>
+    <string name="q48key_word">n</string>
+
+    <string name="q49a">a small change made to something you have written or said</string>
+    <string name="q49b">a complete and sudden change from one thing to another</string>
+    <string name="q49c">a complete change from a bad situation to a good one</string>
+    <string name="q49answer">a</string>
+    <string name="q49key_word">correction</string>
+
+    <string name="q50a">a change that makes someone or something slightly different</string>
+    <string name="q50b">a complete change of official ideas, plans, policies etc</string>
+    <string name="q50c">a very big change that often causes problems</string>
+    <string name="q50answer">a</string>
+    <string name="q50key_word">alteration</string>
+
+    <string name="q51a">reversal</string>
+    <string name="q51b">modification</string>
+    <string name="q51c">switch</string>
+    <string name="q51answer">b</string>
+    <string name="q51key_word">n</string>
+
+    <string name="q52a">correction</string>
+    <string name="q52b">adjustment</string>
+    <string name="q52c">reform</string>
+    <string name="q52answer">b</string>
+    <string name="q52key_word">n</string>
+
+    <string name="q53a">likely to change, or changing often</string>
+    <string name="q53b">not able to be changed - used about decisions</string>
+    <string name="q53c">never able to be changed - used about decisions or actions</string>
+    <string name="q53answer">b</string>
+    <string name="q53key_word">changeable</string>
+
+    <string name="q54a">becoming different</string>
+    <string name="q54b">changing suddenly and without any warning</string>
+    <string name="q54c">staying the same over a long period</string>
+    <string name="q54answer">b</string>
+    <string name="q54key_word">erratic</string>
+
+    <string name="q55a">volatile</string>
+    <string name="q55b">transitional</string>
+    <string name="q55c">stable</string>
+    <string name="q55answer">a</string>
+    <string name="q55key_word">n</string>
+
+    <string name="q56a">likely to change suddenly and become worse</string>
+    <string name="q56b">capable of changing to suit a different situation</string>
+    <string name="q56c">able to change and be used in different situations</string>
+    <string name="q56answer">a</string>
+    <string name="q56key_word">unstable</string>
+
+    <string name="q57a">always changing and not to be relied upon</string>
+    <string name="q57b">likely to change often - used especially about amounts</string>
+    <string name="q57c">able to change and be used in different situations</string>
+    <string name="q57answer">b</string>
+    <string name="q57key_word">variable</string>
+
+    <string name="q58a">flexible</string>
+    <string name="q58b">changeable</string>
+    <string name="q58c">inconsistent</string>
+    <string name="q58answer">c</string>
+    <string name="q58key_word">n</string>
+
+    <string name="q59a">flexible</string>
+    <string name="q59b">transitional</string>
+    <string name="q59c">unsettled</string>
+    <string name="q59answer">c</string>
+    <string name="q59key_word">n</string>
+
+    <string name="q60a">capable of changing to suit a different situation</string>
+    <string name="q60b">always changing and not to be relied upon</string>
+    <string name="q60c">changing gradually from one state or form into another</string>
+    <string name="q60answer">a</string>
+    <string name="q60key_word">flexible</string>
+
+    <string name="q61a">changing too often from good to bad</string>
+    <string name="q61b">able to change and be used in different situations</string>
+    <string name="q61c">likely to change suddenly and become worse</string>
+    <string name="q61answer">b</string>
+    <string name="q61key_word">adaptable</string>
+
+    <string name="q62a">not changing or not able to be changed</string>
+    <string name="q62b">never able to be changed - used about decisions or actions</string>
+    <string name="q62c">always changing and not to be relied upon</string>
+    <string name="q62answer">c</string>
+    <string name="q62key_word">fickle</string>
+
+    <string name="q63a">flexible</string>
+    <string name="q63b">stable</string>
+    <string name="q63c">volatile</string>
+    <string name="q63answer">c</string>
+    <string name="q63key_word">n</string>
+
+    <string name="q64a">trim</string>
+    <string name="q64b">halve</string>
+    <string name="q64c">cut</string>
+    <string name="q64answer">b</string>
+    <string name="q64key_word">n</string>
+
+    <string name="q65a">to reduce the number of people who work for a company, especially in order to save money</string>
+    <string name="q65b">to slightly reduce pain or bad feelings</string>
+    <string name="q65c">to reduce the amount of work or worry that someone has</string>
+    <string name="q65answer">b</string>
+    <string name="q65key_word">lessen</string>
+
+    <string name="q66a"></string>
+    <string name="q66b"></string>
+    <string name="q66c"></string>
+    <string name="q66answer"></string>
+    <string name="q66key_word"></string>
+
+    <string name="q67a"></string>
+    <string name="q67b"></string>
+    <string name="q67c"></string>
+    <string name="q67answer"></string>
+    <string name="q67key_word"></string>
+
+    <string name="q68a"></string>
+    <string name="q68b"></string>
+    <string name="q68c"></string>
+    <string name="q68answer"></string>
+    <string name="q68key_word"></string>
+
+    <string name="q69a"></string>
+    <string name="q69b"></string>
+    <string name="q69c"></string>
+    <string name="q69answer"></string>
+    <string name="q69key_word"></string>
+
+    <string name="q70a"></string>
+    <string name="q70b"></string>
+    <string name="q70c"></string>
+    <string name="q70answer"></string>
+    <string name="q70key_word"></string>
+
+
+    <string name="q71a"></string>
+    <string name="q71b"></string>
+    <string name="q71c"></string>
+    <string name="q71answer"></string>
+    <string name="q71key_word"></string>
+
+    <string name="q72a"></string>
+    <string name="q72b"></string>
+    <string name="q72c"></string>
+    <string name="q72answer"></string>
+    <string name="q72key_word"></string>
+
+    <string name="q73a"></string>
+    <string name="q73b"></string>
+    <string name="q73c"></string>
+    <string name="q73answer"></string>
+    <string name="q73key_word"></string>
+
+    <string name="q74a"></string>
+    <string name="q74b"></string>
+    <string name="q74c"></string>
+    <string name="q74answer"></string>
+    <string name="q74key_word"></string>
+
+    <string name="q75a"></string>
+    <string name="q75b"></string>
+    <string name="q75c"></string>
+    <string name="q75answer"></string>
+    <string name="q75key_word"></string>
+
+    <string name="q76a"></string>
+    <string name="q76b"></string>
+    <string name="q76c"></string>
+    <string name="q76answer"></string>
+    <string name="q76key_word"></string>
+
+    <string name="q77a"></string>
+    <string name="q77b"></string>
+    <string name="q77c"></string>
+    <string name="q77answer"></string>
+    <string name="q77key_word"></string>
+
+    <string name="q78a"></string>
+    <string name="q78b"></string>
+    <string name="q78c"></string>
+    <string name="q78answer"></string>
+    <string name="q78key_word"></string>
+
+    <string name="q79a"></string>
+    <string name="q79b"></string>
+    <string name="q79c"></string>
+    <string name="q79answer"></string>
+    <string name="q79key_word"></string>
+
+    <string name="q80a"></string>
+    <string name="q80b"></string>
+    <string name="q80c"></string>
+    <string name="q80answer"></string>
+    <string name="q80key_word"></string>
+
+
+
+</resources>

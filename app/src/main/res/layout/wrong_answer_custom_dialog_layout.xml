@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@color/redLight"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/layout"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Wrong Answer! "
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="16dp"
+        android:textColor="#fff"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Title"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="2dp">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/word_tv_dialog"
+        android:text="Education"
+        android:textSize="20dp"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="#ffff"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="16dp"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12dp"
+            android:text="Noun"
+            android:textColor="#000"
+            android:textStyle="italic"
+            android:id="@+id/word_type_dialog"
+            android:layout_marginTop="8dp"
+            android:layout_marginLeft="16dp"
+            />
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:backgroundTint="@color/greenLight"
+            android:background="@drawable/circle_drawable"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="4dp"
+            >
+
+            <ImageView
+                android:id="@+id/pronounce_iv_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="top"
+                android:background="?selectableItemBackgroundBorderless"
+                android:src="@drawable/ic_speaker" />
+        </FrameLayout>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/view_color"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        />
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="this is one of the highest usage of word"
+      android:textSize="16sp"
+      android:layout_marginTop="12dp"
+      android:id="@+id/word_meaning_tv_dialog"
+      android:fontFamily="sans-serif"
+      android:layout_marginLeft="16dp"
+      android:textColor="#ffff"
+      android:textStyle="bold"
+      android:layout_marginRight="16dp"
+      />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Education is the only way of being success"
+        android:id="@+id/example1_dialog"
+        android:layout_marginLeft="16dp"
+        android:textColor="#000"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="16dp"
+        />
+
+</LinearLayout>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="34dp"
+        android:text="next"
+        android:background="#fff"
+        android:id="@+id/ok_btn_dialog"
+        android:textColor="#000"
+        android:layout_below="@id/layout"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        />
+
+</RelativeLayout>

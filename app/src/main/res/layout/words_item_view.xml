@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:custom="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--https://github.com/antonKozyriatskyi/CircularProgressIndicator-->
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="85dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="2dp"
+        android:id="@+id/words_card_view">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:id="@+id/word_tv"
+                    android:layout_marginLeft="16dp"
+                    android:textColor="#000"
+                    android:text="Agreeying/disagreeying"
+                    android:fontFamily="@font/alegreya_sans_medium"
+                    android:textSize="24sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_below="@id/word_tv"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginTop="8dp"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="10"
+                        android:textSize="16sp"
+                        android:fontFamily="sans-serif-light"
+                        android:layout_marginBottom="4dp"
+                        android:layout_marginLeft="16dp"
+                        android:id="@+id/learned_word_tv"
+
+                        />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="35"
+                        android:gravity="center"
+                        android:textSize="16sp"
+                        android:fontFamily="sans-serif-light"
+                        android:layout_marginBottom="4dp"
+                        android:id="@+id/total_word_tv" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Words learned"
+                        android:textSize="14dp"
+                        android:gravity="center"
+                        android:fontFamily="sans-serif-light"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginRight="8dp"
+                        android:layout_marginBottom="6dp"
+                        android:id="@+id/words_learned_msg"
+                        />
+
+                    <ImageView
+                        android:id="@+id/done_image_view"
+                        android:layout_width="24dp"
+                        android:layout_height="24dp"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="16dp"
+                        android:src="@drawable/ic_done_white_32dp" />
+
+                </LinearLayout>
+            <com.github.lzyzsd.circleprogress.DonutProgress
+                android:id="@+id/donut_progress"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                app:donut_text_color="#000"
+                android:layout_marginRight="16dp"
+                app:donut_max="80"
+                app:donut_finished_color="@color/textColorOrange"
+                android:layout_alignParentTop="true"
+                app:donut_circle_starting_degree="-90"
+                app:donut_text_size="10dp"
+                app:donut_finished_stroke_width="5dp"
+                app:donut_unfinished_stroke_width="5dp"
+                custom:donut_progress="30"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true" />
+
+            <!--<FrameLayout-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginRight="18dp"-->
+                <!--android:layout_marginBottom="8dp"-->
+                <!--android:background="?selectableItemBackgroundBorderless"-->
+                <!--android:layout_alignParentRight="true"-->
+                <!--android:layout_below="@id/donut_progress">-->
+
+            <!--<ImageView-->
+                <!--android:layout_width="24dp"-->
+                <!--android:layout_height="24dp"-->
+                <!--android:background="@drawable/ic_play_arrow_black_32dp"-->
+                <!--android:id="@+id/play_words_image_vew"-->
+                <!--/>-->
+            <!--</FrameLayout>-->
+
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

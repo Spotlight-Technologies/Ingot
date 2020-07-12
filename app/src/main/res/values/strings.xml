@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Master IELTS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_question_play">QuestionPlayActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="main_empyt">Congrats!\n You learned all words of this part</string>
+
+    <item name="section" type="id" />
+    <item name="hide_show" type="id" />
+
+    <item name="q_id" type="id" />
+    <item name="is_loved" type="id" />
+</resources>

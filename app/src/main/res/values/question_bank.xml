@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //academic agree/disagreeing
+    <string name="q1">Which of the following explanations best describes agree?</string>
+    <string name="q2">Which of the words below means:\nto have the same opinion as someone else, or to say that you do - a formal word</string>
+    <string name="q3">Which of the following explanations best describes share?</string>
+    <string name="q4">Which of the following explanations best describes accept?</string>
+    <string name="q5">Which of the words below means:\na situation in which people agree about something</string>
+    <string name="q6">Which of the following explanations best describes consensus?</string>
+    <string name="q7">Which of the following explanations best describes dissent?</string>
+    <string name="q8">Which of the following explanations best describes unanimous?</string>
+    <string name="q9">Which of the following explanations best describes disagree?</string>
+    <string name="q10">Which of the following explanations best describes dispute?</string>
+    <string name="q11">Which of the words below means:\nto cause strong disagreement among a group of people</string>
+    <string name="q12">Which of the following explanations best describes share?</string>
+    <string name="q13">Which of the following explanations best describes accept?</string>
+    <string name="q14">Which of the following explanations best describes agreement?</string>
+    <string name="q15">Which of the words below means:\nthings that people agree about, especially when there are other things that they disagree about</string>
+    <string name="q16">Which of the words below means:\nagreed about by everyone involved - used about decisions and opinions</string>
+
+    <string name="q17">Which of the words below means:\nto make something happen, especially something unpleasant</string>
+    <string name="q18">Which of the following explanations best describes motivate?</string>
+    <string name="q19">Which of the following explanations best describes excite?</string>
+    <string name="q20">Which of the words below means:\nto cause a particular feeling in people such as interest or jealousy</string>
+    <string name="q21">Which of the words below means:\nto make something that did not exist start to exist</string>
+    <string name="q22">Which of the words below means:\nto cause serious trouble or changes to happen very quickly - used about a small action or event</string>
+    <string name="q23">Which of the following explanations best describes provoke?</string>
+    <string name="q24">Which of the following explanations best describes precipitate?</string>
+    <string name="q25">Which of the words below means:\nto deliberately encourage people to cause trouble, fight, argue etc</string>
+
+    <string name="q26">Which of the words below means:\nto keep changing from a high level to a low level and back again</string>
+    <string name="q27">Which of the following explanations best describes mutate?</string>
+    <string name="q28">Which of the words below means:\nto completely change something, especially so that it is much better</string>
+    <string name="q29">Which of the words below means:to completely and permanently change the way people do something or think about something</string>
+    <string name="q30">Which of the following explanations best describes revise?</string>
+    <string name="q31">Which of the following explanations best describes alter?</string>
+    <string name="q32">Which of the words below means:\nto change and be different, depending on the time, place, situation etc</string>
+    <string name="q33">Which of the words below means:\nto develop and change gradually over a long period of time</string>
+    <string name="q34">Which of the words below means:\nto change what you are doing so that you are not following an expected plan, idea, or type of behaviour</string>
+    <string name="q35">Which of the following explanations best describes reform?</string>
+    <string name="q36">Which of the words below means:\nto change an idea or plan because of new information</string>
+    <string name="q37">Which of the words below means:\nto completely change something, especially so that it is much better</string>
+    <string name="q38">Which of the words below means:\nto change a law, system, or organization, so that it is fairer or more effective</string>
+
+    <string name="q39">Which of the words below means:\na small change made to something you have written or said</string>
+    <string name="q40">Which of the words below means:\na change that makes someone or something slightly different</string>
+    <string name="q41">Which of the following explanations best describes adjustment?</string>
+    <string name="q42">Which of the words below means:\na small change made to a design, plan, or system in order to improve it</string>
+    <string name="q43">Which of the following explanations best describes amendment?</string>
+    <string name="q44">Which of the words below means:\na complete change from a bad situation to a good one</string>
+    <string name="q45">Which of the words below means:\na very big change that often causes problems</string>
+    <string name="q46">Which of the following explanations best describes revolution?</string>
+    <string name="q47">Which of the words below means:\na complete change in something or someone, that leads to a great improvement</string>
+    <string name="q48">Which of the words below means:\na complete and sudden change in the way someone thinks or behaves</string>
+    <string name="q49">Which of the following explanations best describes correction?</string>
+    <string name="q50">Which of the following explanations best describes alteration?</string>
+    <string name="q51">Which of the words below means:\na small change made to a design, plan, or system in order to improve it</string>
+    <string name="q52">Which of the words below means:\na small change made to a machine, a system, or a calculation</string>
+
+    <string name="q53">Which of the following explanations best describes changeable?</string>
+    <string name="q54">Which of the following explanations best describes erratic?</string>
+    <string name="q55">Which of the words below means:\nlikely to change suddenly and become worse</string>
+    <string name="q56">Which of the following explanations best describes unstable?</string>
+    <string name="q57">Which of the following explanations best describes variable?</string>
+    <string name="q58">Which of the words below means:\nchanging too often from good to bad</string>
+    <string name="q59">Which of the words below means:\nchanging a lot in a short period of time - used especially about weather</string>
+    <string name="q60">Which of the following explanations best describes flexible?</string>
+    <string name="q61">Which of the following explanations best describes adaptable?</string>
+    <string name="q62">Which of the following explanations best describes fickle?</string>
+    <string name="q63">Which of the words below means:\nlikely to change suddenly and become worse</string>
+
+    <string name="q64">Which of the words below means:to reduce something by half</string>
+    <string name="q65">Which of the following explanations best describes lessen?</string>
+    <string name="q66"></string>
+    <string name="q67"></string>
+    <string name="q68"></string>
+    <string name="q69"></string>
+    <string name="q70"></string>
+    <string name="q71"></string>
+    <string name="q72"></string>
+    <string name="q73"></string>
+    <string name="q74"></string>
+    <string name="q75"></string>
+    <string name="q76"></string>
+    <string name="q77"></string>
+    <string name="q78"></string>
+    <string name="q79"></string>
+    <string name="q80"></string>
+
+
+
+
+
+
+</resources>
